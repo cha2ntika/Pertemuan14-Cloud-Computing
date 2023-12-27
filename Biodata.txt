@@ -1,2 +1,4 @@
 Nama  : Ni Made Cantika Dewi
 NIM  : 2201010733
+Mata Kuliah   : Cloud Computing
+Jam Mata Kuliah  ; 19.50-22.00 Wita
